@@ -10,7 +10,7 @@ export default function Home() {
       <h1>Blog Home</h1>
       {posts.map((p) => (
         <div key={p.id} style={{
-          background: "#f5f5f5",
+          background: "#201a1aff",
           padding: 15,
           marginTop: 15,
           borderRadius: 8

@@ -1,3 +1,4 @@
+"use client";
 export default function UIPage() {
   const Button = ({ label }: { label: string }) => (
     <button
